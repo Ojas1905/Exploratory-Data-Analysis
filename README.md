@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis
-Done as a part of DS203 Assignment
+Exploratory Data Analysis done for Housing Pattern in India and Suicide Rates around the world
 
 This file contains EDA for housing patterns in India and suicide rates in the world over the years 1985 to 2015.
 In this assignment I've done the following tasks in this project:
